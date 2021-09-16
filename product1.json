@@ -22,7 +22,7 @@
     },
     {
         "idComment": "1",
-        "idProd": "1",
+        "id": "1",
         "score": 3,
         "comment": "Ya llevo un año con este auto y la verdad que tiene sus ventajas y desventajas",
         "user": "juan_pedro",
@@ -30,7 +30,7 @@
     },
     {
         "idComment": "2",
-        "idProd": "1",
+        "id": "1",
         "score": 5,
         "comment": "Es un auto muy cómodo y en relación precio/calidad vale la pena!",
         "user": "maria_sanchez",
@@ -38,7 +38,7 @@
     },
     {
         "idComment": "3",
-        "idProd": "1",
+        "id": "1",
         "score": 4,
         "comment": "Casi todo bien!, excepto por algún detalle de gusto personal",
         "user": "paola_perez",
@@ -46,7 +46,7 @@
     },
     {
         "idComment": "4",
-        "idProd": "1",
+        "id": "1",
         "score": 5,
         "comment": "Un espectáculo el auto!",
         "user": "pablo_gomez",
