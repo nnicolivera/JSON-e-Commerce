@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Tabla de Surf",
+        "cantidad": "3",
+        "stockDisponible": true
+    },
+    {
+        "nombre": "Bicicleta",
+        "cantidad": "5",
+        "stockDisponible": true
+    },
+    {
+        "nombre": "Fidget Spinner",
+        "cantidad": "13",
+        "stockDisponible": true
+    },
+    {
+        "nombre": "PC Gamer",
+        "cantidad": "0",
+        "stockDisponible": false
+    },
+    {
+        "nombre": "Cubo Rubik",
+        "cantidad": "7",
+        "stockDisponible": true
+    },
+    {
+        "nombre": "Cable HDMI",
+        "cantidad": "2",
+        "stockDisponible": true
+    },
+    {
+        "nombre": "Silla Gamer",
+        "cantidad": "5",
+        "stockDisponible": true
+    }
+]
