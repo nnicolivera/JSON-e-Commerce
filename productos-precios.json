@@ -1,0 +1,30 @@
+[
+   {
+        "nombre": "Tabla de Surf",
+        "precio": 25.000
+    },
+    {
+        "nombre": "Bicicleta",
+        "precio": 15.000
+    },
+    {
+        "nombre": "Fidget Spinner",
+        "precio": 200
+    },
+    {
+        "nombre": "PC Gamer",
+        "precio": 55.000
+    },
+    {
+        "nombre": "Cubo Rubik",
+        "precio": 150
+    },
+    {
+        "nombre": "Cable HDMI",
+        "precio": 500
+    },
+    {
+        "nombre": "Silla Gamer",
+        "precio": 14.500
+    }
+]
