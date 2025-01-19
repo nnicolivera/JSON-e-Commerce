@@ -1,11 +1,11 @@
 [
    {
         "nombre": "Tabla de Surf",
-        "precio": 25000
+        "precio": 25.000
     },
     {
         "nombre": "Bicicleta",
-        "precio": 15000
+        "precio": 15.000
     },
     {
         "nombre": "Fidget Spinner",
@@ -13,7 +13,7 @@
     },
     {
         "nombre": "PC Gamer",
-        "precio": 55000
+        "precio": 55.000
     },
     {
         "nombre": "Cubo Rubik",
@@ -25,6 +25,6 @@
     },
     {
         "nombre": "Silla Gamer",
-        "precio": 14500
+        "precio": 14.500
     }
 ]
