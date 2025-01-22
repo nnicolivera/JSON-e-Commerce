@@ -1,3 +1,17 @@
 [
- 
+   {
+        "nombre": "Tabla de Surf",
+        "cantidad": 3,
+        "stockDisponible": 7
+    },
+    {
+        "nombre": "Bicicleta",
+        "cantidad": 5,
+        "stockDisponible": 10
+    },
+    {
+        "nombre": "Fidget Spinner",
+        "cantidad": 13,
+        "stockDisponible": 30
+    }
 ]
